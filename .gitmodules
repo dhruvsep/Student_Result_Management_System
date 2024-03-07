@@ -1,0 +1,3 @@
+[submodule "src/student_management_system"]
+	path = src/student_management_system
+	url = https://github.com/rp7007/Student_Result_Management_Portal.git

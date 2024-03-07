@@ -1,0 +1,2 @@
+student_project_management_system.adminindex
+student_project_management_system.adminindex$1
